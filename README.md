@@ -1,9 +1,6 @@
 # Genomic Markov Models
 ### Statistical Modeling and Synthetic Generation of DNA Sequences using Higher-Order Markov Chains
 
-<p align="center">
-<img src="assets/gc_content_plot.png" width="750">
-</p>
 
 <p align="center">
 Modeling genomic structure using probabilistic sequence models trained on the <i>Escherichia coli</i> K-12 genome.
@@ -181,21 +178,6 @@ Potential extensions:
 - Codon-aware generative models  
 - Comparison with deep generative sequence models  
 - Genome-scale language modeling
-
----
-
-## Citation
-
-If you use this repository, please cite:
-
-```bibtex
-@misc{varanasi2025genomicmarkovmodels,
-  author={Sumant Varanasi},
-  title={Genomic Markov Models},
-  year={2025},
-  note={GitHub repository}
-}
-```
 
 ---
 
