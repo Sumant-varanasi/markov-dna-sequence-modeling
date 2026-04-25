@@ -1,6 +1,5 @@
 # Markov Chain DNA Sequence Modeling
 
-[![Course](https://img.shields.io/badge/Course-AMTL%20106-blue)](https://example.com)  
 [![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen.svg)](https://www.python.org)  
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -118,4 +117,4 @@ You can easily swap in any other genome:
 
 This project is open‑source under the [MIT License](LICENSE).  
 Use it freely for research, education, and development.
-```
+
