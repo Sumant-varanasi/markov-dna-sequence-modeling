@@ -42,10 +42,9 @@ Trinucleotide (order‑3) Markov Chains provide the optimal balance between **pr
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
-
-git clone https://github.com/your-username/markov-dna-sequence-modeling.git
-cd markov-dna-sequence-modeling
-
+```
+git clone https://github.com/Sumant-varanasi/markov-dna-sequence-modeling.git cd markov-dna-sequence-modeling
+```
 
 ### 2️⃣ Install dependencies
 
@@ -61,10 +60,10 @@ jupyter notebook markov_dna_analysis.ipynb
 Execute the cells sequentially. The notebook will **automatically use the local `.fna` file** if present.  
 If you delete the genome file, the code will download it from NCBI (takes a few moments).
 
-> 🔧 **Local genome file**  
-> The notebook already points to the included FASTA file:  
-> `LOCAL_FASTA_PATH = "GCF_000005845.2_ASM584v2_genomic (1).fna"`  
-> Make sure it’s in the same folder as the notebook.
+🔧 **Local genome file**  
+The notebook already points to the included FASTA file:  
+"LOCAL_FASTA_PATH = "GCF_000005845.2_ASM584v2_genomic (1).fna"
+Make sure it’s in the same folder as the notebook.
 
 ---
 
